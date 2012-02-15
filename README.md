@@ -1,15 +1,6 @@
-What is IOS Boilerplate
------------------------
+What is IOS Boilerplate Standalone
+----------------------------------
 
-Is a base template for iOS projects.
+Based on iOS Boilerplate, striving to provide standalone click-and-drag components that can easily be implemented in any other Xcode project.
 
-Please, go to [http://iosboilerplate.com/](http://iosboilerplate.com/) for more documentation and further information.
-
-Some screenshots:
-
-![Demo menu](https://github.com/gimenete/iOS-boilerplate/raw/master/shots/demo-menu.png)
-
-![Async cell images demo](https://github.com/gimenete/iOS-boilerplate/raw/master/shots/async-cells.png)
-
-![Directions demo](https://github.com/gimenete/iOS-boilerplate/raw/master/shots/directions.png)
-
+Using iOS Boilerplate on a regular basis, I found myself always complaining about all the requirements the different objects have. This project will eleviate that problem for me.
